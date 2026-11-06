@@ -47,7 +47,7 @@ AudioBook-DomCasmurro/
 
 ## 👨‍💻 Autor
 
-**Felipe Slavic** · [github.com/felipedSlavic](https://github.com/felipedSlavic) · FIAP — SI · 2024
+**Felipe Slavic** · [github.com/felipedSlavic](https://github.com/felipedSlavic) · FIAP — SI · 2025
 
 ---
 
